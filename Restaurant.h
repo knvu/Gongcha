@@ -4,3 +4,10 @@
 using namespace std;
 
 class Restaurant
+{
+  public:
+         Restaurant();
+         int date;
+         int time;
+         int number;
+         
