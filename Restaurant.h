@@ -2,7 +2,7 @@
 #define RESTAURANT_H
 
 using namespace std;
-kam is a loser
+
 class Restaurant
 {
   public:
