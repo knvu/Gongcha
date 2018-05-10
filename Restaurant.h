@@ -37,3 +37,11 @@ int main()
   cout<< "Enter date:";
   booking.getDate(
  
+    
+    
+    
+vectors
+    store things as pairs
+    1 or 0 correlating if its free or not
+    can be done with arrays
+    
