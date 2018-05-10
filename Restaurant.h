@@ -10,7 +10,30 @@ class Restaurant
          int date;
          int time;
          int number;
+         getDate();
+         getTime();
+         getNumber();
 };
 
-#endif
+#endif //RESTAURANT_H
          
+
+
+
+Restaurant::getDate()
+{
+  int d;
+  int m;
+  int y;
+  char slash_dummy;
+  cout << "Enter date in D/M/Y format:" << endl; 
+  cin >> d >> slash_dummy >> m >> slash_dummy >> y;
+  
+}
+
+
+int main()
+{
+  cout<< "Enter date:";
+  booking.getDate(
+ 
