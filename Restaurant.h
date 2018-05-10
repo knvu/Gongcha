@@ -10,4 +10,7 @@ class Restaurant
          int date;
          int time;
          int number;
+};
+
+#endif
          
